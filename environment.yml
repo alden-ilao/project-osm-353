@@ -8,4 +8,6 @@ dependencies:
   - matplotlib
   - statsmodels
   - pykalman
+  - lxml
+  - pyspark
 prefix: /Users/aldenilao/opt/miniconda3/envs/data-science-env
