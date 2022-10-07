@@ -1,0 +1,11 @@
+name: data-science-env
+channels:
+  - defaults
+dependencies:
+  - pandas
+  - seaborn
+  - jupyter
+  - matplotlib
+  - statsmodels
+  - pykalman
+prefix: /Users/aldenilao/opt/miniconda3/envs/data-science-env
