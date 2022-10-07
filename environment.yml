@@ -1,6 +1,7 @@
 name: data-science-env
 channels:
   - defaults
+  - conda-forge
 dependencies:
   - pandas
   - seaborn
