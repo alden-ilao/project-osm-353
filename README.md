@@ -1,6 +1,7 @@
 # Project-OSM-353
 CMPT 373 data analysis project integrating OpenSourceMap data, exploring restaurant emeneties in the Metro Vancouver area.
-Find out report [here](https://docs.google.com/document/d/13EPX5HsckOmco3d_Jun7AiKFP7DtBcbJbb01f1_Midk/edit?usp=sharing)
+Find out report [here](https://docs.google.com/document/d/1smrJh-KzrwZYtFqh73VDUU6BtP1ffGA-mlO0C4Erc8c/edit?usp=sharing)
+
 
 ## Creating New Environment from environment.yml
 ```
